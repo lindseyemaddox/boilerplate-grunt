@@ -1,5 +1,5 @@
 
-module.exports = {
+Module.exports = {
   launchAPI: {
     cmd: "json-server -p 8088 -w ../../api/database.json"
   },

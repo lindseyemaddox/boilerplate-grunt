@@ -1,5 +1,5 @@
 
-module.exports = {
+Module.exports = {
   scripts: {
     files: [
       "../scripts/**/*.js",

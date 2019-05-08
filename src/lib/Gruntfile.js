@@ -1,4 +1,4 @@
 
-module.exports = function (grunt) {
+Module.exports = function (grunt) {
   require("load-grunt-config")(grunt);
 };

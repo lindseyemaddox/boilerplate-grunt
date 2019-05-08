@@ -1,5 +1,5 @@
 
-module.exports = {
+Module.exports = {
   "dev": {
 
     // the server root directory
